@@ -11,7 +11,7 @@ import javax.persistence.TemporalType;
 
 /**
  * 
- * @author Naveen Reddy
+ * @author  Naveen Reddy
  * @version 1.0
  * @since   24/01/2017
  */

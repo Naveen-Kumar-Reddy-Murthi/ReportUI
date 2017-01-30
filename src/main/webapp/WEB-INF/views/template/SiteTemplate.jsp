@@ -39,10 +39,10 @@ body{ margin-top:20px; margin-bottom:20px; background-color:#DFDFDF;}
 	</tr>
 	
 	<tr>
-		<td width="20%">
+		<td width="30%">
 		<tiles:insertAttribute name="menu"/>
 		</td>
-		<td width="80%">
+		<td width="70%">
 		<tiles:insertAttribute name="body"/>
 		</td>
 	</tr>

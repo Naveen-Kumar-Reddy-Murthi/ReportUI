@@ -9,7 +9,7 @@
 	<definition name="personList" extends="DefaultTemplate">
 		<put-attribute name="body" value="/WEB-INF/views/personList.jsp" />
 	</definition>
-	<definition name="CreateJob" extends="DefaultTemplate">
+	<!-- <definition name="CreateJob" extends="DefaultTemplate">
 		<put-attribute name="body" value="/WEB-INF/views/createJob.jsp" />
-	</definition>
+	</definition> -->
 </tiles-definitions>

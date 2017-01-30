@@ -9,13 +9,13 @@
 <script type="text/javascript" src="resources/bootstrap/js/jquery.js"></script>
 	<script type="text/javascript" src="resources/bootstrap/js/bootstrap.min.js"></script>
     <link href="resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="resources/bootstrap/css/sb-admin.css" rel="stylesheet">
+   <!--  <link href="resources/bootstrap/css/sb-admin.css" rel="stylesheet"> -->
     <link href="resources/bootstrap/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+<!-- <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
 <center>this is header</center>
-<!-- Brand and toggle get grouped for better mobile display -->
+Brand and toggle get grouped for better mobile display
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -25,7 +25,7 @@
                 </button>
                 <a class="navbar-brand" href="index.html">Report Scheduler</a>
             </div>
-            <!-- Top Menu Items -->
+            Top Menu Items
             <ul class="nav navbar-right top-nav">
             	 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Admin <b class="caret"></b></a>
@@ -46,6 +46,6 @@
                     </ul>
                 </li>
                </ul>
-               </nav>
+               </nav> -->
 </body>
 </html>

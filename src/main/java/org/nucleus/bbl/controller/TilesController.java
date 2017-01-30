@@ -23,10 +23,6 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class TilesController {
 	
-	
-	
-	
-	
 	@RequestMapping(value = "home", method = RequestMethod.GET)
 	public ModelAndView loginPage(HttpServletRequest request,
 			HttpServletResponse response) {
